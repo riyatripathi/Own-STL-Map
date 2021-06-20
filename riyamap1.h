@@ -13,7 +13,7 @@ public:
 		this->next=NULL;
 	}
 };
-
+ 
 template<typename T>
 class riyamap1{
 private:
